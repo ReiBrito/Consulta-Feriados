@@ -36,14 +36,11 @@ Com apenas alguns cliques, o usuário escolhe o ano desejado e recebe a lista co
 ├── style.css # Estilos e responsividade
 └── script.js # Lógica de consulta e exibição dos feriados
 ```
-yaml
-Copiar
-Editar
-
 ---
 
 ## ⚡ Como Usar Localmente
 
+```
 1. Clone este repositório:
    ```bash
    git clone https://github.com/ReiBrito/Consulta-Feriados.git
@@ -62,6 +59,8 @@ start index.html   # Windows
 open index.html    # Mac
 xdg-open index.html # Linux
 Selecione o ano e clique em Consultar para visualizar os feriados.
+
+```
 
 🌐 Demonstração
 
