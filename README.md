@@ -31,10 +31,11 @@ Com apenas alguns cliques, o usuário escolhe o ano desejado e recebe a lista co
 
 ## 📂 Estrutura do Projeto
 
+```
 ├── index.html # Estrutura principal da aplicação
 ├── style.css # Estilos e responsividade
 └── script.js # Lógica de consulta e exibição dos feriados
-
+```
 yaml
 Copiar
 Editar
@@ -69,12 +70,6 @@ link do GitHub Pages para testar:
 👉 https://ReiBrito.github.io/Consulta-Feriados/
 
 🖼️ Imagens
-
-Imagem 1
-
-![imagens](tela.png)
-
-Imagem 2
 
 ![imagens](tela1.png)
 
