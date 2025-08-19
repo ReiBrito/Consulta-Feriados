@@ -48,17 +48,15 @@ Com apenas alguns cliques, o usuário escolhe o ano desejado e recebe a lista co
 Acesse a pasta do projeto:
 
 ```bash
-Copiar
-Editar
 cd Consulta-Feriados
 ```
 Abra o arquivo index.html no navegador:
 
 ```bash
-Copiar
-Editar
 start index.html   # Windows
+
 open index.html    # Mac
+
 xdg-open index.html # Linux
 ```
 Selecione o ano e clique em Consultar para visualizar os feriados.
